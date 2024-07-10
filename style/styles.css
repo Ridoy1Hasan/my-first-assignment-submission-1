@@ -185,3 +185,13 @@ gap: 100px;
 .s-50{
     color: aliceblue;
 }
+/* footer section */
+.s-100{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 40pxs;
+    gap: 550px;
+    margin-top: 50px;
+    /* border: 2px solid red; */
+}
